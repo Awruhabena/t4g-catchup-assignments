@@ -1,0 +1,1 @@
+tree is useful for backend developers to quickly visualize complex project folder hierarchies. htop is valuable for monitoring system resources and finding out if a backend process is consuming too much CPU or memory.
