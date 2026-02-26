@@ -1,0 +1,14 @@
+Decoding Permissions
+a) -rwxr-xr--: Owner can read, write, and execute. Group can read and execute. Others can only read.
+
+
+b) drwxrwx---: This is a directory. Owner and Group can read, write and execute. Others have no access.
+
+
+с) -rw-r--r--: Owner can read and write. Group and Others can only read.
+
+
+d) chmod 750 file: Sets permissions so Owner has full access, Group can read and execute, and Others have no access.
+
+
+e) chmod 600 file: Sets permissions so Owner can read and write, while Group and Others have no access.
